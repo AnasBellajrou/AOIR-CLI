@@ -29,3 +29,5 @@ Why do cemeteries have fences around them? Because everyone’s dying to get in.
 I like my coffee like I like my IDEs – Dark and free
 
 Why can't male ants sink? They're buoy-ant.
+
+Er zijn 10 soorten mensen in de wereld: Mensen die binaire code begrijpen, en mensen die dat niet doen.
