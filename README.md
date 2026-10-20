@@ -17,3 +17,5 @@ De bioloog zoekt naar bugs in de natuur, en de informaticus probeert ze uit de c
 
 Why was the negative-sense DNA angry at the positive-sense DNA?
 Because he was left stranded!
+
+Wat zegt een eend als hij tegen de muur loopt? KWAK.
