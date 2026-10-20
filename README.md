@@ -23,3 +23,5 @@ Wat zegt een eend als hij tegen de muur loopt? KWAK.
 Waarom zijn toiletten altijd zo goed in poker? - Ze krijgen altijd een flush
 
 What do you call software that kills someone? Code-blooded murderer
+
+Er zijn 10 soorten mensen in de wereld: Mensen die binaire code begrijpen, en mensen die dat niet doen.
