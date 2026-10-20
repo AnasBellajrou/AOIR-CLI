@@ -22,12 +22,5 @@ Wat zegt een eend als hij tegen de muur loopt? KWAK.
 
 Waarom zijn toiletten altijd zo goed in poker? - Ze krijgen altijd een flush
 
-What do you call software that kills someone? Code-blooded murderer
-
-Why do cemeteries have fences around them? Because everyone’s dying to get in.
-
-I like my coffee like I like my IDEs – Dark and free
-
-Why can't male ants sink? They're buoy-ant.
-
-Er zijn 10 soorten mensen in de wereld: Mensen die binaire code begrijpen, en mensen die dat niet doen.
+What do you call a hamster with a top hat?
+Abrahamster Lincoln
