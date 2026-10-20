@@ -25,3 +25,5 @@ Waarom zijn toiletten altijd zo goed in poker? - Ze krijgen altijd een flush
 What do you call software that kills someone? Code-blooded murderer
 
 Why do cemeteries have fences around them? Because everyone’s dying to get in.
+
+I like my coffee like I like my IDEs – Dark and free
