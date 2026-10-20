@@ -37,3 +37,6 @@ What is an astronaut’s favorite part on a computer?
 
 What do you call a hamster with a top hat?
 Abrahamster Lincoln
+
+Wat krijg je als een olifant en een mol een kindje krijgen?
+Heel grote gaten in je tuin
