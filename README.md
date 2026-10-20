@@ -7,3 +7,6 @@ What’s the difference between a delicious dinner and a slow computer?
 One’s a rack of lamb and the other’s a lack of RAM.
 
 Why did the chicken cross the road
+
+Where did darth vader get his new shoes?
+At the darth mall!
