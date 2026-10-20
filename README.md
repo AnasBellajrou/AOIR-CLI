@@ -14,3 +14,6 @@ At the darth mall!
 
 Waarom gaan biologen en informatici zo goed samen?
 De bioloog zoekt naar bugs in de natuur, en de informaticus probeert ze uit de code te halen.
+
+Why was the negative-sense DNA angry at the positive-sense DNA?
+Because he was left stranded!
