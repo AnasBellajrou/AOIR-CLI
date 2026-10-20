@@ -21,3 +21,6 @@ Because he was left stranded!
 Wat zegt een eend als hij tegen de muur loopt? KWAK.
 
 Waarom zijn toiletten altijd zo goed in poker? - Ze krijgen altijd een flush
+
+
+I like my coffee like I like my IDEs – Dark and free 
