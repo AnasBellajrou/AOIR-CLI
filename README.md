@@ -1,3 +1,5 @@
 # AOIR-CLI exercise
 
-Add a joke to this repository and open a pull request to get it merged.
+Waarom gaan biologen en informatici zo goed samen?
+De bioloog zoekt naar bugs in de natuur, en de informaticus probeert ze uit de code te halen.
+
