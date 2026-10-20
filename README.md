@@ -27,3 +27,5 @@ What do you call software that kills someone? Code-blooded murderer
 Why do cemeteries have fences around them? Because everyone’s dying to get in.
 
 I like my coffee like I like my IDEs – Dark and free
+
+Why can't male ants sink? They're buoy-ant.
