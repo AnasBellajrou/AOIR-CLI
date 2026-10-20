@@ -14,3 +14,6 @@ At the darth mall!
 
 Waarom gaan biologen en informatici zo goed samen?
 De bioloog zoekt naar bugs in de natuur, en de informaticus probeert ze uit de code te halen.
+
+What is an astronaut’s favorite part on a computer?
+> The space bar.
