@@ -34,3 +34,6 @@ Er zijn 10 soorten mensen in de wereld: Mensen die binaire code begrijpen, en me
 
 What is an astronaut’s favorite part on a computer?
 > The space bar.
+
+What do you call a hamster with a top hat?
+Abrahamster Lincoln
