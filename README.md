@@ -21,5 +21,4 @@ Because he was left stranded!
 Wat zegt een eend als hij tegen de muur loopt? KWAK.
 
 Waarom zijn toiletten altijd zo goed in poker? - Ze krijgen altijd een flush
-
-What do you call software that kills someone? Code-blooded murderer
+Why can't male ants sink? They're buoy-ant.
