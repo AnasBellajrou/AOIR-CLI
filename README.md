@@ -1,7 +1,6 @@
 # AOIR-CLI exercise
 
 Add a joke to this repository and open a pull request to get it merged.
-
 Why do programmers prefer dark mode? Because light attracts bugs!
 
 What’s the difference between a delicious dinner and a slow computer?
@@ -14,3 +13,6 @@ At the darth mall!
 
 Waarom gaan biologen en informatici zo goed samen?
 De bioloog zoekt naar bugs in de natuur, en de informaticus probeert ze uit de code te halen.
+
+Waarom zijn toiletten altijd zo goed in poker? - Ze krijgen altijd een flush
+
