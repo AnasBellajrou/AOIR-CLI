@@ -14,3 +14,5 @@ At the darth mall!
 
 Waarom gaan biologen en informatici zo goed samen?
 De bioloog zoekt naar bugs in de natuur, en de informaticus probeert ze uit de code te halen.
+
+Wat zegt een eend als hij tegen de muur loopt? KWAK.
